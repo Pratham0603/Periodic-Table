@@ -25,7 +25,8 @@ h1{
     grid-template-columns: repeat(18, 81.3px);
     grid-template-rows: 4.2rem 4.2rem 4.2rem 4.2rem 4.2rem 4.2rem 4.2rem 1.2rem 4.2rem 4.2rem;  
     grid-gap: 2.2px;
-    margin: -22px;
+    margin: 20px;
+    margin-bottom: 0px;
     justify-content: center;
 }
 .element{
